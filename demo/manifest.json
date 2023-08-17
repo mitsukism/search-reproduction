@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "URL Popup Extension",
+    "version": "1.0",
+    "description": "Display a popup with embedded URL",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
